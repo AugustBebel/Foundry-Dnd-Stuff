@@ -8,7 +8,7 @@
 			"compatibleCoreVersion":"0.7.8",
 			"url": "https://github.com/AugustBebel/Foundry-Dnd-Stuff",
 			"manifest": "https://raw.githubusercontent.com/AugustBebel/Foundry-Dnd-Stuff/master/module.json",
-			"download": "https://raw.githubusercontent.com/AugustBebel/Foundry-Dnd-Stuff/master/Tome%20of%20stuff.zip",
+			"download": "https://github.com/AugustBebel/Foundry-Dnd-Stuff/raw/master/Tome%20of%20stuff.zip",
 			"packs": [
     					{
       					"name": "spelltome",
