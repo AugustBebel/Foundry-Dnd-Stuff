@@ -1,0 +1,52 @@
+		{
+			"name": "tome",
+			"title": "Tome of spells",
+			"description": "Tome of spells for big boys",
+			"author": "AugustBebel",
+			"version": "1.0.0",
+			"minimumCoreVersion": "0.7.8",
+			"compatibleCoreVersion":"0.7.8",
+			"packs": [
+    					{
+      					"name": "spelltome",
+      					"label": "Tome of Spells",
+						"system": "dnd5e",
+      					"path": "./packs/tome.db",
+      					"entity": "Item",
+      					"module": "tome"
+						},
+						{
+      					"name": "tosrulereferences",
+      					"label": "ToS Rules References",
+						"system": "dnd5e",
+      					"path": "./packs/tos-rule-references.db",
+      					"entity": "JournalEntry",
+      					"module": "tome"
+						},
+						{
+      					"name": "tome-of-armor",
+      					"label": "Tome of Armor",
+						"system": "dnd5e",
+      					"path": "./packs/tome-of-armor.db",
+      					"entity": "Item",
+      					"module": "tome"
+						},
+						{
+      					"name": "tomepoffeats",
+      					"label": "Tome of Feats",
+						"system": "dnd5e",
+      					"path": "./packs/tome-of-feats.db",
+      					"entity": "Item",
+      					"module": "tome"
+						},
+						{
+      					"name": "tomepofweapons",
+      					"label": "Tome of Weapons",
+						"system": "dnd5e",
+      					"path": "./packs/tome-of-weapons.db",
+      					"entity": "Item",
+      					"module": "tome"
+						}
+					]
+		  }
+		
