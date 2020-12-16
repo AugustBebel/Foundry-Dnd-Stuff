@@ -57,6 +57,14 @@
       					"path": "./packs/tome-of-backgrounds.db",
       					"entity": "Item",
       					"module": "tome"
+						},
+						{
+      					"name": "tome-of-equipment",
+      					"label": "Tome of Equipment",
+						"system": "dnd5e",
+      					"path": "./packs/tome-of-equipment.db",
+      					"entity": "Item",
+      					"module": "tome"
 						}
 					]
 		  }
