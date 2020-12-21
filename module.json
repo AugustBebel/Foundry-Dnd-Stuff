@@ -3,7 +3,7 @@
 			"title": "Tome of spells",
 			"description": "Tome of spells for big boys",
 			"author": "AugustBebel",
-			"version": "1.1.1",
+			"version": "1.1.3",
 			"minimumCoreVersion": "0.7.8",
 			"compatibleCoreVersion":"0.7.8",
 			"url": "https://github.com/AugustBebel/Foundry-Dnd-Stuff",
@@ -63,6 +63,14 @@
       					"label": "Tome of Equipment",
 						"system": "dnd5e",
       					"path": "./packs/tome-of-equipment.db",
+      					"entity": "Item",
+      					"module": "tome"
+						},
+						{
+      					"name": "tome-of-potions",
+      					"label": "Tome of Potions",
+						"system": "dnd5e",
+      					"path": "./packs/tome-of-potions.db",
       					"entity": "Item",
       					"module": "tome"
 						}
